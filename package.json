@@ -1,0 +1,16 @@
+{
+  "name": "edt_internal",
+  "version": "1.0.0",
+  "description": "Internal Practical Paper",
+  "license": "ISC",
+  "author": "uk",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "mongoose": "^9.10.4"
+  }
+}
